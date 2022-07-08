@@ -10,7 +10,7 @@ namespace Memorie {
         responseJSON = await response.text();
     }
 
-    getJSON("./data.json").then(function (): void {
+    getJSON("https://github.com/Sturmsee/Memorie/blob/main/scripts/data.json").then(function (): void {
         allCards = JSON.parse(responseJSON);
         console.log("Response", allCards);
         possibleCards = allCards.MemoryCards;

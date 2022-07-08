@@ -9,7 +9,7 @@ var Memorie;
         console.log("Response", response);
         responseJSON = await response.text();
     }
-    getJSON("./data.json").then(function () {
+    getJSON("https://github.com/Sturmsee/Memorie/blob/main/scripts/data.json").then(function () {
         allCards = JSON.parse(responseJSON);
         console.log("Response", allCards);
         possibleCards = allCards.MemoryCards;
