@@ -1,0 +1,16 @@
+{
+    "MemoryCards": [
+        {"cardID": "tile1", "frontImg": "../media/1.png", "backImg": "../media/cover.png"},
+        {"cardID": "tile2", "frontImg": "../media/2.png", "backImg": "../media/cover.png"},
+        {"cardID": "tile3", "frontImg": "../media/3.png", "backImg": "../media/cover.png"},
+        {"cardID": "tile4", "frontImg": "../media/4.png", "backImg": "../media/cover.png"},
+        {"cardID": "tile5", "frontImg": "../media/5.png", "backImg": "../media/cover.png"},
+        {"cardID": "tile6", "frontImg": "../media/6.png", "backImg": "../media/cover.png"},
+        {"cardID": "tile7", "frontImg": "../media/7.png", "backImg": "../media/cover.png"},
+        {"cardID": "tile8", "frontImg": "../media/8.png", "backImg": "../media/cover.png"},
+        {"cardID": "tile9", "frontImg": "../media/9.png", "backImg": "../media/cover.png"},
+        {"cardID": "tile10", "frontImg": "../media/10.png", "backImg": "../media/cover.png"},
+        {"cardID": "tile11", "frontImg": "../media/11.png", "backImg": "../media/cover.png"},
+        {"cardID": "tile12", "frontImg": "../media/12.png", "backImg": "../media/cover.png"}
+    ]
+}
